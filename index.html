@@ -55,7 +55,7 @@ title: Ye Banished Privateers
 
       {% for thumb in site.data.thumbs %}
         <div class="col-md-3 col-xs-6 thumb">
-          <a class="thumbnail" href="{{thumb.href}}">
+          <a class="thumbnail fluid-image" href="assets/img/{{thumb.image}}">
             <img class="img-responsive" src="assets/img/{{thumb.image}}" alt="{{thumb.alt}}">
           </a>
         </div>
@@ -140,20 +140,18 @@ title: Ye Banished Privateers
 <!-- ========== CREW - GREY SECTION ========== -->
 <section id="crew" name="crew"></section>
 <div id="g">
-  <div class="container">
-    <div class="row">
-      <h3>CREW</h3>
-      {% for crew in site.data.crew %}
-        <div class="col-lg-4 col-md-6 team">
-          <img class="img-circle" src="assets/img/profiles/{{crew.image}}" height="120" width="120">
-          <h4>{{crew.name}}</h4>
-          <h5><i>{{crew.tagline}}</i></h5>
-          {% for poetry in crew.poetry %}
-            <p class="poetryline">{{poetry}}</p>
-          {% endfor %}
-        </div>
-      {% endfor %}
-    </div>
+  <div class="flex-container">
+    <h3>CREW</h3>
+    {% for crew in site.data.crew %}
+      <div class="flex-item team">
+        <img class="img-circle" src="assets/img/profiles/{{crew.image}}" height="120" width="120">
+        <h4>{{crew.name}}</h4>
+        <h5><i>{{crew.tagline}}</i></h5>
+        {% for poetry in crew.poetry %}
+          <p class="poetryline">{{poetry}}</p>
+        {% endfor %}
+      </div>
+    {% endfor %}
   </div><!-- /container -->
 </div><!-- /g -->
 
