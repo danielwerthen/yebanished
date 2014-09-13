@@ -1,0 +1,86 @@
+- image: sara.png
+  name: Major John
+  tagline: The crews piper
+  poetry:
+    - Major John not man nor maid
+    - Men in bed and grave both laid
+    - Try steal from her a kiss you wish
+    - She guts you like a fish
+
+- image: peter.png
+  name: Blackpowder Pete
+  tagline: Quartermaster & Artificer
+  poetry: 
+    - Quarter master blackpowder Pete
+    - Clad in gold from top to feet
+    - A shady man of selfish needs
+    - Lads and lassies best take heeds
+
+- image: bjorn.png
+  name: William "One Eye" O'Sullivan
+  tagline: First mate & Accordion player
+  poetry: 
+    - One eye be the ship's first mate
+    - Starboard side he can't locate
+    - She used his eye for fishing bait
+      
+- image: hampus.png
+  name: Monkey Boy
+  tagline: Second drummer & first flogger
+  poetry: 
+    - Our drummer boy
+    - Tone deaf must be
+    - '''es off the boat'''
+    - and out of key
+
+- image: eva.png
+  name: Fiddler Eve
+  tagline: Fiddle & navigation
+  poetry: 
+    - Fiddle Eve must navigate
+    - She used his eye for fishing bait
+
+- image: namn.png
+  name: Old red
+  tagline: Renegade governorial guard
+  poetry: 
+    - Carpenter and drunkard
+    - Be playin' a cracked and burned doghouse bass
+
+- image: martin.png
+  name: Scurvy Ben
+  tagline: Drummer & Cannoneer
+  poetry: 
+    - Sawbones and ship's cook the same
+    - Scurvy Ben that be his name
+    - One mans loss, next mans gain
+    - Coxswain toes his stew contain
+
+- image: mange.png
+  name: Val DuMonde
+  tagline: Marooned ex-captain & Guitarra
+  poetry: 
+    - Last captains's name was Waldemon
+    - A Spaniard & a bastard son
+    - Gangplanked once & now marooned
+    - His brother had his rear harpooned
+      
+- image: emil.png
+  name: Emilio DuMonde
+  tagline: Shiperyer & Guitarra
+  poetry: 
+    - An' I jumped the bed
+    - Screamed as I wake
+    - - This ship is gonna blow!
+
+- image: jonas.png
+  name: Jonathan "Hog Eye"
+  tagline: Lookout & Banjo player
+  poetry: 
+    - Our lookout drunk in the crow's nest lies
+    - No ship nor rock his hog eye spies
+
+- image: jens.png
+  name: Shanghai Chong
+  tagline: French harp & Various strings
+  poetry: 
