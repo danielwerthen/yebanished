@@ -527,6 +527,10 @@ a:after {
   justify-content: center;
 }
 
+.flex-container h3 {
+  width: 100%;
+}
+
 .flex-item {
   -webkit-flex: 30% 1;      /* OLD - iOS 6-, Safari 3.1-6 */
   -moz-flex: 1;         /* OLD - Firefox 19- */
