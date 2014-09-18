@@ -188,7 +188,11 @@ a:after {
 }
 
 #merchwrap b {
-	color: #56868D;
+	color: #f85c37;
+}
+
+#merchwrap b:hover {
+	color: #FF714F;
 }
 
 .port-space {
