@@ -1,15 +1,15 @@
 - image: sara.png
   name: Major John
-  tagline: The crews piper
+  tagline: The crews Piper
   poetry:
     - Major John not man nor maid
     - Men in bed and grave both laid
     - Try steal from her a kiss you wish
-    - She guts you like a fish
+    - She guts you like a rotten fish
 
 - image: peter.png
   name: Blackpowder Pete
-  tagline: Quartermaster & Artificer
+  tagline: Quarter master & Artificer
   poetry: 
     - Quarter master blackpowder Pete
     - Clad in gold from top to feet
@@ -26,7 +26,7 @@
       
 - image: hampus.png
   name: Monkey Boy
-  tagline: Second drummer & first flogger
+  tagline: Second drummer & First flogger
   poetry: 
     - Our drummer boy
     - Tone deaf must be
@@ -35,10 +35,10 @@
 
 - image: eva.png
   name: Fiddler Eve
-  tagline: Fiddle & navigation
+  tagline: Fiddle & Navigation
   poetry: 
-    - Fiddle Eve must navigate
-    - She used his eye for fishing bait
+    - Birds castin'eye to the lass in the surge
+    - weeping a solem dirge. Her watery eyes tell no lies
 
 - image: namn.png
   name: Old red
