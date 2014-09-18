@@ -202,7 +202,7 @@ a:after {
 /* Grey Wrap */
 
 #g {
-	background: #f2f2f2;
+	background: #E5E4DE;
 	padding-top: 35px;
 	padding-bottom: 35px;
 	text-align: center;
@@ -561,4 +561,17 @@ a:after {
   flex: 100% 1;                  /* NEW, Spec - Opera 12.1, Firefox 20+ */
   max-width: 100%;
 }
+}
+
+.donate h3 {
+  text-align: center;
+}
+
+.donate {
+  min-height: 200px;
+}
+
+.donate iframe, .donate input {
+  display: block;
+  margin: 25px auto;
 }
