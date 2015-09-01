@@ -54,7 +54,12 @@ title: Ye Banished Privateers
       {% for tour in site.data.tourdates %}
         <div class="col-xs-12">
           <h4>{{tour.location}}</h4>
-          <p class="poetryline">{{tour.date | date: "%B %d, %Y" }}</p>
+          <p class="poetryline">
+          {{tour.date | date: "%B %d, %Y" }}
+          {% for date in tour.dates %}
+          <span class="date">{{date | date: "%B %d, %Y" }}</span>
+          {% endfor %}
+          </p>
           <p class="poetryline">{{tour.description}}</p>
           <br>
         </div>

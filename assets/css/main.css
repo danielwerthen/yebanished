@@ -575,3 +575,11 @@ a:after {
   display: block;
   margin: 25px auto;
 }
+
+.poetryline span.date:after {
+  margin-left: 5px;
+  content: '|';
+}
+.poetryline span.date:last-child:after {
+  content: '';
+}
