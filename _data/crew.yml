@@ -1,6 +1,6 @@
 - image: sara.png
   name: Major John
-  tagline: The crews Piper
+  tagline: The crew's Piper
   poetry:
     - Major John not man nor maid
     - Men in bed and grave both laid
@@ -17,7 +17,7 @@
     - Lads and lassies best take heeds
 
 - image: bjorn.png
-  name: William "One Eye" O'Sullivan
+  name: Björn "Bellows" Malmros
   tagline: First mate & Accordion player
   poetry: 
     - One eye be the ship's first mate
@@ -43,7 +43,7 @@
     - her sorrow's seen clear from the skies 
 
 - image: namn.png
-  name: Old red
+  name: Old Red
   tagline: Renegade governorial guard
   poetry: 
     - Carpenter and drunkard
