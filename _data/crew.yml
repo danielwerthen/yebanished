@@ -1,79 +1,49 @@
-- image: sara.png
-  name: Major John
-  tagline: The crew's Piper
+- image: bellows.jpg
+  name: Björn "Bellows" Malmros
+  tagline: Accordion and vocals
   poetry:
-    - Major John not man nor maid
-    - Men in bed and grave both laid
-    - Try steal from her a kiss you wish
-    - She guts you like a rotten fish
-
-- image: peter.png
+    - One eye be the ship's first mate
+    - Starboard side he can't locate
+    - She used his eye for fishing bait
+ 
+- image: pete.jpg
   name: Blackpowder Pete
-  tagline: Quarter master & Artificer
+  tagline: Vocals and quartermastery
   poetry: 
     - Quarter master blackpowder Pete
     - Clad in gold from top to feet
     - A shady man of selfish needs
     - Lads and lassies best take heeds
 
-- image: bjorn.png
+<!--- 
+image: bjorn.png
   name: Björn "Bellows" Malmros
   tagline: First mate & Accordion player
   poetry: 
     - One eye be the ship's first mate
     - Starboard side he can't locate
     - She used his eye for fishing bait
+-->    
       
-- image: hampus.png
-  name: Monkey Boy
-  tagline: German style base drummer
-  poetry: 
-    - Our drummer boy
-    - Tone deaf must be
-    - '''es off the boat'''
-    - and out of key
+- image: liz.jpg
+  name: Bloody Liz
+  tagline: Percussion and fury
 
-- image: eva.png
-  name: Fiddler Eve
-  tagline: Fiddle & Navigation
-  poetry: 
-    - Birds castin'eye to the lass in the surge
-    - weeping a solem dirge. 
-    - Her watery eyes tell no lies
-    - her sorrow's seen clear from the skies 
+- image: bojje.jpg
+  name: Bojtikken 
+  tagline: Percussion, guitarra and vocals
 
-- image: namn.png
-  name: Old Red
-  tagline: Renegade governorial guard
-  poetry: 
-    - Carpenter and drunkard
-    - Be playin' a cracked and burned doghouse bass
+- image: fiddler.jpg
+  name: Eva the Navigator
+  tagline: Fiddle and Vocals
 
-- image: martin.png
-  name: Scurvy Ben
-  tagline: Drummer & Cannoneer
-  poetry: 
-    - Sawbones and ship's cook the same
-    - Scurvy Ben that be his name
-    - One mans loss, next mans gain
-    - Coxswain toes his stew contain
-
-- image: mange.png
-  name: Val DuMonde
-  tagline: Marooned ex-captain & Guitarra
-  poetry: 
-    - Last captains's name was Waldemon
-    - A Spaniard & a bastard son
-    - Gangplanked once & now marooned
-    - His brother had his rear harpooned
+- image: freebird.png
+  name: Freebird af Wærmaland
+  tagline: Fiddle and vocals
       
-- image: emil.png
-  name: Emilio DuMonde
-  tagline: Shiperyer & Guitarra
-  poetry: 
-    - An' I jumped the bed
-    - Screamed as I wake
-    - - This ship is gonna blow!
+- image: lou.png
+  name: Happy Lou
+  tagline: Fiddle and dance
 
 - image: jonas.png
   name: Jonathan "Hog Eye"
@@ -82,25 +52,64 @@
     - Our lookout drunk in the crow's nest lies
     - No ship nor rock his hog eye spies
 
-- image: jens.png
-  name: One Chou Zhong
-  tagline: French harp & Various strings
+- image: magda.png
+  name: Magda Malvina Märlprim
+  tagline: Guitarra and vocals
+  
+- image: meatstick.png
+  name: Meatstick Nick
+  tagline: Bass and bass trombone 
+  
+- image: monkey.png
+  name: Monkey Boy
+  tagline: Percussion and flogging
+    
+- image: nobby.png
+  name: Nobility 
+  tagline: Clavier and vocals
+     
+- image: oldred.png
+  name: Old Red 
+  tagline: Bass and guitarra 
+       
+- image: taljenblock.png
+  name: Quinton Taljenblock 
+  tagline: Viola pomposa and kalimba
+       
+- image: landmark.png
+  name: Sara Landmark
+  tagline: Percussion and high frequency croaking 
+
+- image: scurvy.jpg
+  name: Scurvy Ben
+  tagline: Percussion and vocals
+  poetry: 
+    - Sawbones and ship's cook the same
+    - Scurvy Ben that be his name
+    - One mans loss, next mans gain
+    - Coxswain toes his stew contain
+
+- image: shameless.png
+  name: Shameless Will
+  tagline: Vocals and vanity
+
+- image: sickboy.png
+  name: Sickboy McCoy
+  tagline: Bass, harmonica and percussion
+  
+- image: silent.png
+  name: Silent Jim
+  tagline: Irish banjo, guitarra, mandolino and vocals
+  
+- image: lars.png
+  name: Slagter Lars
+  tagline: Bass and guitarra
+  
+- image: wan.png
+  name: Wan Chou Zhong
+  tagline: Guitelele, banjo and sitar 
   poetry: 
           - His voice was thin,
           - his step was light,
           - he didn’t curse an’
           - he picked no fight
-  
-- image: extendeds.jpg
-  name: Extended Crew
-  tagline: They be hoppin' on an off at the ports
-  poetry: 
-          - Anton Teljebäck, Lisa Carlsson
-          - Melker Häggbom Klingberg, RM Johansson
-          - Jim Sundström, William Hallin
-          - Magda Andersson, Niklas Lindroth
-          - Nicklas Bohman, Calle Paju, Sofia Nilsson
-          - Jonas Paro, Andreas Södermark
-          - Anders Nyberg, Joel Löfwenius
-          - Kristian Persson Hodén, Hampus Bojtikken Larsson
-          - Sara Lundmark
