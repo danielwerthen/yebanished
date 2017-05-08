@@ -1,3 +1,11 @@
+image: bjorn.png
+  name: Björn "Bellows" Malmros
+  tagline: First mate & Accordion player
+  poetry: 
+    - One eye be the ship's first mate
+    - Starboard side he can't locate
+    - She used his eye for fishing bait
+    
 - image: bellows.jpg
   name: Björn "Bellows" Malmros
   tagline: Accordion and vocals
@@ -14,37 +22,32 @@
     - Clad in gold from top to feet
     - A shady man of selfish needs
     - Lads and lassies best take heeds
-
-<!--- 
-image: bjorn.png
-  name: Björn "Bellows" Malmros
-  tagline: First mate & Accordion player
-  poetry: 
-    - One eye be the ship's first mate
-    - Starboard side he can't locate
-    - She used his eye for fishing bait
--->    
       
 - image: liz.jpg
   name: Bloody Liz
   tagline: Percussion and fury
+  poetry: 
 
 - image: bojje.jpg
   name: Bojtikken 
   tagline: Percussion, guitarra and vocals
-
+  poetry: 
+  
 - image: fiddler.jpg
   name: Eva the Navigator
   tagline: Fiddle and Vocals
-
+  poetry: 
+  
 - image: freebird.jpg
   name: Freebird af Wærmaland
   tagline: Fiddle and vocals
-      
+  poetry: 
+  
 - image: lou.jpg
   name: Happy Lou
   tagline: Fiddle and dance
-
+  poetry: 
+  
 - image: jonas.jpg
   name: Jonathan "Hog Eye"
   tagline: Lookout & Banjo player
@@ -55,31 +58,39 @@ image: bjorn.png
 - image: magda.jpg
   name: Magda Malvina Märlprim
   tagline: Guitarra and vocals
+  poetry: 
   
 - image: meatstick.jpg
   name: Meatstick Nick
   tagline: Bass and bass trombone 
+  poetry: 
   
 - image: monkey.jpg
   name: Monkey Boy
   tagline: Percussion and flogging
-    
+  poetry: 
+  
 - image: nobby.jpg
   name: Nobility 
   tagline: Clavier and vocals
-     
+  poetry: 
+  
+  
 - image: oldred.jpg
   name: Old Red 
   tagline: Bass and guitarra 
-       
+  poetry: 
+  
 - image: taljenblock.jpg
   name: Quinton Taljenblock 
   tagline: Viola pomposa and kalimba
-       
+  poetry: 
+  
 - image: landmark.jpg
   name: Sara Landmark
   tagline: Percussion and high frequency croaking 
-
+  poetry: 
+  
 - image: scurvy.jpg
   name: Scurvy Ben
   tagline: Percussion and vocals
@@ -92,18 +103,22 @@ image: bjorn.png
 - image: shameless.jpg
   name: Shameless Will
   tagline: Vocals and vanity
-
+  poetry: 
+  
 - image: sickboy.jpg
   name: Sickboy McCoy
   tagline: Bass, harmonica and percussion
+  poetry: 
   
 - image: silent.jpg
   name: Silent Jim
   tagline: Irish banjo, guitarra, mandolino and vocals
+  poetry: 
   
 - image: lars.jpg
   name: Slagter Lars
   tagline: Bass and guitarra
+  poetry: 
   
 - image: wan.jpg
   name: Wan Chou Zhong
