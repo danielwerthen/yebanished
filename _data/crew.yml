@@ -37,46 +37,46 @@ image: bjorn.png
   name: Eva the Navigator
   tagline: Fiddle and Vocals
 
-- image: freebird.png
+- image: freebird.jpg
   name: Freebird af Wærmaland
   tagline: Fiddle and vocals
       
-- image: lou.png
+- image: lou.jpg
   name: Happy Lou
   tagline: Fiddle and dance
 
-- image: jonas.png
+- image: jonas.jpg
   name: Jonathan "Hog Eye"
   tagline: Lookout & Banjo player
   poetry: 
     - Our lookout drunk in the crow's nest lies
     - No ship nor rock his hog eye spies
 
-- image: magda.png
+- image: magda.jpg
   name: Magda Malvina Märlprim
   tagline: Guitarra and vocals
   
-- image: meatstick.png
+- image: meatstick.jpg
   name: Meatstick Nick
   tagline: Bass and bass trombone 
   
-- image: monkey.png
+- image: monkey.jpg
   name: Monkey Boy
   tagline: Percussion and flogging
     
-- image: nobby.png
+- image: nobby.jpg
   name: Nobility 
   tagline: Clavier and vocals
      
-- image: oldred.png
+- image: oldred.jpg
   name: Old Red 
   tagline: Bass and guitarra 
        
-- image: taljenblock.png
+- image: taljenblock.jpg
   name: Quinton Taljenblock 
   tagline: Viola pomposa and kalimba
        
-- image: landmark.png
+- image: landmark.jpg
   name: Sara Landmark
   tagline: Percussion and high frequency croaking 
 
@@ -89,23 +89,23 @@ image: bjorn.png
     - One mans loss, next mans gain
     - Coxswain toes his stew contain
 
-- image: shameless.png
+- image: shameless.jpg
   name: Shameless Will
   tagline: Vocals and vanity
 
-- image: sickboy.png
+- image: sickboy.jpg
   name: Sickboy McCoy
   tagline: Bass, harmonica and percussion
   
-- image: silent.png
+- image: silent.jpg
   name: Silent Jim
   tagline: Irish banjo, guitarra, mandolino and vocals
   
-- image: lars.png
+- image: lars.jpg
   name: Slagter Lars
   tagline: Bass and guitarra
   
-- image: wan.png
+- image: wan.jpg
   name: Wan Chou Zhong
   tagline: Guitelele, banjo and sitar 
   poetry: 
