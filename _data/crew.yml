@@ -20,11 +20,6 @@
   tagline: Percussion and fury
   poetry: 
 
-- image: stina.png
-  name: Stina Hake
-  tagline: Recorders, whistles and cello
-  poetry: 
-
 - image: bojjan.jpg
   name: Bojtikken 
   tagline: Percussion, guitarra and vocals
@@ -115,6 +110,11 @@
 - image: lars.jpg
   name: Slagter Lars
   tagline: Bass and guitarra
+  poetry: 
+  
+  - image: stina.png
+  name: Stina Hake
+  tagline: Recorders, whistles and cello
   poetry: 
   
 - image: wan.jpg
