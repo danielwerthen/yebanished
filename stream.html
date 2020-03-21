@@ -59,23 +59,7 @@ title: Ye Banished Privateers
   </div>
 </section>
 
-<!-- ========== CREW - GREY SECTION ========== -->
-<section id="crew" name="crew"></section>
-<div id="g">
-  <div class="flex-container">
-    <h3>CREW</h3>
-    {% for crew in site.data.crew %}
-      <div class="flex-item team">
-        <img class="img-circle" src="assets/img/profiles/{{crew.image}}" height="120" width="120">
-        <h4>{{crew.name}}</h4>
-        <h5><i>{{crew.tagline}}</i></h5>
-        {% for poetry in crew.poetry %}
-          <p class="poetryline">{{poetry}}</p>
-        {% endfor %}
-      </div>
-    {% endfor %}
-  </div><!-- /container -->
-</div><!-- /g -->
+
 
 <!-- ========== FOOTER SECTION ========== -->
 <section id="contact" name="contact"></section>
