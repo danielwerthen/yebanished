@@ -194,15 +194,15 @@ a:after {
 }
 
 
-#merchwrap h3 {
+#merchwrap h3, #streamwrap h3 {
 	color: #ffffff;
 }
 
-#merchwrap b {
+#merchwrap b, #streamwrap b {
 	color: #ffffff;
 }
 
-#merchwrap b:hover {
+#merchwrap b, #streamwrap b:hover {
 	color: #E9E9E9;
 }
 
