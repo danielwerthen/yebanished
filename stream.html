@@ -1,6 +1,75 @@
+---
 layout: front
 title: Ye Banished Privateers
 ---
+
+<!-- ========== HEADER SECTION ========== -->
+<section id="home" name="home"></section>
+<div id="headerwrap">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-6 col-sm-offset-3">
+        <h1></h1>
+      </div>
+    </div>
+  </div><!-- /container -->
+</div><!-- /headerwrap -->
+
+<!-- ========== ABOUT - LIGHT SECTION ========== -->
+<section id="about" name="about">
+  <div id="g">
+    <div class="container">
+      <div class="row">
+        <img class="img-circle" src="assets/img/logo.jpg" height="80" width="80">
+        <h3>{{ site.data.about.header }}</h3>
+        <p>{{ site.data.about.body }}</p>
+      </div> <!-- Row -->
+    </div><!-- /container -->
+  </div><!-- /g -->
+</section>
+
+<!-- 
+<div id="c">
+  <div class="container">
+    <div class="row">
+
+      {% for thumb in site.data.thumbs %}
+        <div class="col-md-3 col-xs-6 thumb">
+          <a class="thumbnail fluid-image" href="assets/img/{{thumb.image}}">
+            <img class="img-responsive" src="assets/img/{{thumb.image}}" alt="{{thumb.alt}}">
+          </a>
+        </div>
+      {% endfor %}
+
+    </div>
+  </div>
+</div>
+-->
+
+<!-- ========== TOUR - GREY SECTION ========== -->
+<section id="tour" name="tour"></section>
+<div id="g">
+  <div class="container">
+    <div class="row">
+      <a href="http://www.songkick.com/artists/7924743" class="songkick-widget" data-theme="light" data-track-button="on" data-detect-style="true" data-background-color="transparent">TOUR DATES</a>
+      <script src="//widget.songkick.com/widget.js"></script>     
+           
+<!--
+      <h3>TOUR DATES</h3>
+      <br>
+      {% for tour in site.data.tourdates %}
+        <div class="col-xs-12">
+          <h4>{{tour.location}}</h4>
+          <p class="poetryline">{{tour.date}}</p>
+          <p class="poetryline">{{tour.description}}</p>
+          <br> 
+
+        </div>
+      {% endfor %}
+-->
+    </div>
+  </div><!-- /container -->
+</div><!-- /g -->
 
 <section id="merchandise" name="merchandise"></section>
 <div id="merchwrap">
@@ -34,6 +103,27 @@ title: Ye Banished Privateers
   </div><!-- /container -->
 </div><!-- /crewwrap -->
 
+
+<section id="listen" name="listen"></section>
+<div id="c">
+  <div class="container">
+    <div class="row">
+      <h3>MEDIA</h3>
+      <br>
+      <div class="col-md-3 port-space">
+       <a href="https://www.youtube.com/c/yebanishedprivateers"><img src="assets/img/YouTube-logo-full_color.png" width="100%"></a>
+      </div>
+      <div class="col-md-6 port-space">
+        <iframe src="https://open.spotify.com/embed?uri=spotify:user:twixman2000:playlist:1F6WuXcPSEBhQE9Px6jc0o" width="280" height="300" frameborder="0" allowtransparency="true"></iframe>
+      </div>
+      <div class="col-md-3 port-space">
+         <a href="https://soundcloud.com/ye-banished-privateers"><i class="fa fa-soundcloud fa-8x"></i></a>
+      </div>	
+      <br>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/u05HbfkoFQI?start=7" frameborder="0" allowfullscreen></iframe>        
+    </div>	
+  </div><!-- /container -->
+</div><!-- /g -->
 
 <section class="donate">
   <div>
@@ -141,6 +231,3 @@ title: Ye Banished Privateers
   <!-- Menu button -->
   <div id="menuToggle"><i class="fa fa-reorder"></i></div>
 </nav>
-
-
-
