@@ -491,7 +491,7 @@ a:after {
 
 .btn-theme {
 	color: #fff;
-	background-color: #56868D;
+	background-color: #a5875c;
 	padding-left: 40px;
 	padding-right: 40px;
 	padding-bottom: 10px;
@@ -503,7 +503,7 @@ a:after {
 .btn-theme:hover {
 	cursor: pointer;
 	color: white;
-	background-color: #5E9199;
+	background-color: #c6a26f;
 	
 }
 
