@@ -33,16 +33,16 @@
 - image: freebird.jpg
   name: Freebird af Wærmaland
   tagline: Fiddle and vocals
-  poetry: 
-  
- - image: InaM.jpeg
-  name: Ina Molin
-  tagline: Percussion and deadly roars
   poetry:  
   
 - image: lou.jpg
   name: Happy Lou
   tagline: Fiddle and dance
+  poetry: 
+  
+- image: InaM.jpeg
+  name: Ina Molin
+  tagline: Percussion and deadly roars
   poetry: 
   
 - image: jonas.png
