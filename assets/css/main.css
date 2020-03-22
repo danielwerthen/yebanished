@@ -552,8 +552,9 @@ a:after {
   justify-content: center;
 }
 
-.flex-container h3 {
+.flex-container h3, h4 {
   width: 100%;
+  color: #a38867;
 }
 
 .flex-item {
