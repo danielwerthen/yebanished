@@ -607,7 +607,5 @@ a:after {
 }
 
 .smoothScroll {
-  text-decoration: none;
-	font-family: Segoe UI;
-  margin: 24px;
+  margin: 0px;
 }
