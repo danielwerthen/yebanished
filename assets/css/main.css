@@ -605,3 +605,9 @@ a:after {
 .poetryline span.date:last-child:after {
   content: '';
 }
+
+.smoothScroll {
+  text-decoration: none;
+	font-family: Segoe UI;
+  margin: 24px;
+}
